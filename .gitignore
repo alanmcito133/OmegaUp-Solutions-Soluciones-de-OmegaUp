@@ -28,3 +28,21 @@ var/
 Thumbs.db
 *.log
 *.sqlite3
+
+# --- .NET / C# ---
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# --- Visual Studio ---
+.vs/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
