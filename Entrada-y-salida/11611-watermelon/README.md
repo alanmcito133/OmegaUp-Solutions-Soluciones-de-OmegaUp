@@ -15,7 +15,7 @@ Through mathematical analysis, we identified two essential conditions for a succ
 
 ## 🛠️ Implementation
 
-The solution is implemented in **Python 3** using a constant time complexity $O(1)$, ensuring maximum efficiency.
+The solution is implemented in both **Python 3** and **C# (.NET)** using a constant time complexity $O(1)$, ensuring maximum efficiency.
 
 ### Key Concepts Used:
 
@@ -27,6 +27,7 @@ The solution is implemented in **Python 3** using a constant time complexity $O(
 
 
 ## 🚀 How to Run
+### Python
 
 1. Make sure you have Python installed.
 
@@ -35,3 +36,16 @@ The solution is implemented in **Python 3** using a constant time complexity $O(
    ```bash
 
    python solution.py 
+
+### C#
+1. Make sure you have **.NET SDK** version 9.0 or higher installed.
+
+2. Navigate to the solution folder, (example: `/entrada-y-salida/11611-watermelon`")
+
+3. Compile and run the solution
+   ```bash
+   dotnet run
+
+   #or or pass the input directly:
+
+   echo 13 | dotnet run
